@@ -1,29 +1,29 @@
-add DLC Outfits Ultimate/Christmas Sonic/raw/character/sonic.pac
-add DLC Outfits Ultimate/Christmas Sonic/raw/character/soniccyber.pac
-add DLC Outfits Ultimate/Christmas Sonic/raw/character/sonicT.pac
-add DLC Outfits Ultimate/Christmas Sonic/raw/character/supersonic.pac
-add DLC Outfits Ultimate/Christmas Sonic/raw/character/supersonic2.pac
-add DLC Outfits Ultimate/Christmas Sonic/raw/character/supersoniccyber.pac
-add DLC Outfits Ultimate/Christmas Sonic/raw/character/supersonicdamage.pac
-add DLC Outfits Ultimate/Crown Sonic/raw/character/sonic.pac
-add DLC Outfits Ultimate/Crown Sonic/raw/character/soniccyber.pac
-add DLC Outfits Ultimate/Crown Sonic/raw/character/sonicT.pac
-add DLC Outfits Ultimate/Crown Sonic/raw/character/supersonic.pac
-add DLC Outfits Ultimate/Crown Sonic/raw/character/supersonic2.pac
-add DLC Outfits Ultimate/Crown Sonic/raw/character/supersoniccyber.pac
-add DLC Outfits Ultimate/Crown Sonic/raw/character/supersonicdamage.pac
-add DLC Outfits Ultimate/Happy Birthday Sonic/raw/character/sonic.pac
-add DLC Outfits Ultimate/Happy Birthday Sonic/raw/character/soniccyber.pac
-add DLC Outfits Ultimate/Happy Birthday Sonic/raw/character/sonicT.pac
-add DLC Outfits Ultimate/Happy Birthday Sonic/raw/character/supersonic.pac
-add DLC Outfits Ultimate/Happy Birthday Sonic/raw/character/supersonic2.pac
-add DLC Outfits Ultimate/Happy Birthday Sonic/raw/character/supersoniccyber.pac
-add DLC Outfits Ultimate/Hi-Speed Shoes/raw/character/sonic.pac
-add DLC Outfits Ultimate/Hi-Speed Shoes/raw/character/soniccyber.pac
-add DLC Outfits Ultimate/Hi-Speed Shoes/raw/character/sonicT.pac
-add DLC Outfits Ultimate/Hi-Speed Shoes/raw/character/supersonic.pac
-add DLC Outfits Ultimate/Hi-Speed Shoes/raw/character/supersonic2.pac
-add DLC Outfits Ultimate/Hi-Speed Shoes/raw/character/supersoniccyber.pac
-add DLC Outfits Ultimate/Hi-Speed Shoes/raw/character/supersonicdamage.pac
-add DLC Outfits Ultimate/mod.ini
-add DLC Outfits Ultimate/DLC Outfits Ultimate.json
+add Christmas Sonic/raw/character/sonic.pac
+add Christmas Sonic/raw/character/soniccyber.pac
+add Christmas Sonic/raw/character/sonicT.pac
+add Christmas Sonic/raw/character/supersonic.pac
+add Christmas Sonic/raw/character/supersonic2.pac
+add Christmas Sonic/raw/character/supersoniccyber.pac
+add Christmas Sonic/raw/character/supersonicdamage.pac
+add Crown Sonic/raw/character/sonic.pac
+add Crown Sonic/raw/character/soniccyber.pac
+add Crown Sonic/raw/character/sonicT.pac
+add Crown Sonic/raw/character/supersonic.pac
+add Crown Sonic/raw/character/supersonic2.pac
+add Crown Sonic/raw/character/supersoniccyber.pac
+add Crown Sonic/raw/character/supersonicdamage.pac
+add Happy Birthday Sonic/raw/character/sonic.pac
+add Happy Birthday Sonic/raw/character/soniccyber.pac
+add Happy Birthday Sonic/raw/character/sonicT.pac
+add Happy Birthday Sonic/raw/character/supersonic.pac
+add Happy Birthday Sonic/raw/character/supersonic2.pac
+add Happy Birthday Sonic/raw/character/supersoniccyber.pac
+add Hi-Speed Shoes/raw/character/sonic.pac
+add Hi-Speed Shoes/raw/character/soniccyber.pac
+add Hi-Speed Shoes/raw/character/sonicT.pac
+add Hi-Speed Shoes/raw/character/supersonic.pac
+add Hi-Speed Shoes/raw/character/supersonic2.pac
+add Hi-Speed Shoes/raw/character/supersoniccyber.pac
+add Hi-Speed Shoes/raw/character/supersonicdamage.pac
+add mod.ini
+add DLC Outfits Ultimate.json
