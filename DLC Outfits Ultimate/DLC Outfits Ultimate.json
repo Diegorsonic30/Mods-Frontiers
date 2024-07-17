@@ -1,0 +1,56 @@
+{
+    "Groups": [
+      {
+        "Name": "main",
+        "DisplayName": "Contriteorb4 Skins",
+        "Elements": [
+          {
+            "Name": "IncludeDir0",
+            "DisplayName": "Skin Select",
+            "Description": [
+              "Change the Contriteorb4 skin for the one you like the most!"
+            ],
+            "Type": "SkinSelect",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "Remastered Model"
+  
+          }
+        ]
+      }
+    ],
+
+    "Enums": {
+     "SkinSelect": [
+        {
+          "DisplayName": "Christmas Sonic Model",
+          "Value": "Christmas Sonic",
+          "Description": [
+            ""
+          ]
+        },
+        {
+          "DisplayName": "Hi-Speed Shoes Model",
+          "Value": "Hi-Speed Shoes",
+          "Description": [
+            ""
+          ]
+        },
+        {
+          "DisplayName": "Happy Birthday Sonic Model",
+          "Value": "Happy Birthday Sonic",
+          "Description": [
+            ""
+          ]
+        },
+        {
+          "DisplayName": "Elite Sonic Model",
+          "Value": "Crown Sonic",
+          "Description": [
+            ""
+          ]
+        }
+     ]
+    },
+  "IniFile": "mod.ini"
+}
