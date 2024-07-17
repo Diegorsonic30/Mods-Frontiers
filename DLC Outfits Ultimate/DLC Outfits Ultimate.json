@@ -8,12 +8,12 @@
             "Name": "IncludeDir0",
             "DisplayName": "Skin Select",
             "Description": [
-              "Change the Contriteorb4 skin for the one you like the most!"
+              "Select the DLC skin you want to use!"
             ],
             "Type": "SkinSelect",
             "MinValue": null,
             "MaxValue": null,
-            "DefaultValue": "Remastered Model"
+            "DefaultValue": "Hi-Speed Shoes Model"
   
           }
         ]
