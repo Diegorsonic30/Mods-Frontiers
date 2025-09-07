@@ -1,0 +1,19 @@
+Code "KPop Demon Hunters MUSIC BOX names" by "Elanystar"
+//
+    #lib "Converse"
+//
+{
+    Converse.Redirect("musicselect_songtitle_01", "TAKEDOWN (TWICE)");
+    Converse.Redirect("musicselect_songtitle_02", "How It's Done");
+    Converse.Redirect("musicselect_songtitle_03", "Soda Pop");
+    Converse.Redirect("musicselect_songtitle_04", "Golden");
+    Converse.Redirect("musicselect_songtitle_05", "Strategy");
+    Converse.Redirect("musicselect_songtitle_06", "Takedown");
+    Converse.Redirect("musicselect_songtitle_07", "Your Idol");
+    Converse.Redirect("musicselect_songtitle_08", "Free");
+    Converse.Redirect("musicselect_songtitle_09", "What It Sounds Like");
+    Converse.Redirect("musicselect_songtitle_10", "사랑인가 봐 Love, Maybe");
+    Converse.Redirect("musicselect_songtitle_11", "오솔길 Path");
+    Converse.Redirect("musicselect_songtitle_12", "Score Suite");
+}
+
