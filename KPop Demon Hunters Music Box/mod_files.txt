@@ -1,3 +1,4 @@
+delete raw/sound/custom_sound/bgm_custom.awb
 add raw/sound/custom_sound/bgm_custom.acb
 add SONG_NAMES.hmm
 add mod.ini
