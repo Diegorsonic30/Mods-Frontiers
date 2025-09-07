@@ -1,4 +1,5 @@
 add raw/sound/custom_sound/bgm_custom.acb
-add mod.ini
 add SONG_NAMES.hmm
+add mod.ini
+
 
