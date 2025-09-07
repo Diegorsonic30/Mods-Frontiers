@@ -1,4 +1,3 @@
 add raw/sound/custom_sound/bgm_custom.acb
-add raw/sound/custom_sound/bgm_custom.awb
 add mod.ini
 
